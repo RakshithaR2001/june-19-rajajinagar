@@ -1,2 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.Garage"/>
+    <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.Mechanic"/>
+    <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.PowerBank"/>
+    <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.Battery"/>
+    <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.Hotel"/>
+    <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.Cook"/>
+    <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.Shop"/>
+    <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.SalesMan"/>
+    <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.Hospital"/>
+    <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.Doctor"/>
+    <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.Nurse"/>
+    <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.Patient"/>
+    <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.Browser"/>
+    <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.Internet"/>
+</qualifiedTypeNameHistroy>
