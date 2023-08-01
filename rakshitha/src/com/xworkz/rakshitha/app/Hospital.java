@@ -1,6 +1,7 @@
 package com.xworkz.rakshitha.app;
 
-public class Hospital {
+public class Hospital 
+{
 	
 	
 	public String hospitalName = "shankar eye hospital";
@@ -10,6 +11,7 @@ public class Hospital {
 	
 	public void healthCare()
 	{
+		
 		System.out.println("invoking healthCare in hospital");
 		this.doctor.treatment();
 		

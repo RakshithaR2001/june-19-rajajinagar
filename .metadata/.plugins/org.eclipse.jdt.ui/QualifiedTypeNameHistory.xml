@@ -13,5 +13,13 @@
     <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.Nurse"/>
     <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.Patient"/>
     <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.Browser"/>
+    <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.Person"/>
+    <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.King"/>
+    <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.Palace"/>
+    <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.Jail"/>
     <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.Internet"/>
+    <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.boot.ToothpasteRunner"/>
+    <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.Toothpaste"/>
+    <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.Company"/>
+    <fullyQualifiedTypeName name="com.xworkz.rakshitha.app.Ingredent"/>
 </qualifiedTypeNameHistroy>
