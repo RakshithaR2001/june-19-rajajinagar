@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.example.Inheritance.app.app1.app2.Square"/>
-    <fullyQualifiedTypeName name="com.example.Inheritance.app.app1.app2.Pentagon"/>
-    <fullyQualifiedTypeName name="com.example.Inheritance.app.app1.app2.Oval"/>
-    <fullyQualifiedTypeName name="com.example.Inheritance.app.app1.app2.Rhombus"/>
     <fullyQualifiedTypeName name="com.example.Inheritance.app.app1.app2.app3.SavingsAccount"/>
     <fullyQualifiedTypeName name="com.example.Inheritance.app.app1.app2.app3.FixedDeposit"/>
     <fullyQualifiedTypeName name="com.example.Inheritance.app.app1.app2.app3.JointAccount"/>
@@ -60,4 +56,8 @@
     <fullyQualifiedTypeName name="com.google.cast.app.app1.app2.app3.app4.InternationalBrand"/>
     <fullyQualifiedTypeName name="com.google.cast.app.app1.app2.app3.app4.DuplicateBrand"/>
     <fullyQualifiedTypeName name="com.google.cast.app.app1.app2.app3.app4.LocalBrand"/>
+    <fullyQualifiedTypeName name="com.tap.patterns.app.Stars8"/>
+    <fullyQualifiedTypeName name="com.tap.typecasting.app.Calculator"/>
+    <fullyQualifiedTypeName name="com.tap.typecasting.app.Subtractor"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
